@@ -1,6 +1,6 @@
 {
     // Name this configuration
-    "name": "New Codespace!",
+    "name": "CS-1!",
     "customizations": {
         "vscode": {
             "extensions": [
